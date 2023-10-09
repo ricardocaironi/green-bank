@@ -15,7 +15,7 @@
 <br>
 
  <div align="center">  
-  <strong> - Requisitos propostos para esta aplicação: - </strong>
+  <strong> - Requisitos propostos para esta aplicação - </strong>
 </div>   
 
 <br>
