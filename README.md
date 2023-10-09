@@ -3,18 +3,50 @@
   <strong>Green Bank </strong>
 </div>
 
+<br>
+
 <div>
-Aplicação desenvolvida em Flutter tendo como proposta trabalhar conexão com API, Autenticação com Firebase,  Gerenciamento de estado usando BLoC, Refatoração, Arquitetura Limpa, S.O.L.I.D, Animações, Compartilhamento de Comprovante, Persistência de Flag, Local Storage, Patterns e Trabalho em Equipe.
+ A proposta é um aplicativo de movimentação financeira que inicia com uma splash page seguida de um onbording, permite ao usuário fazer login, cadastro, alterar a senha, verificar o saldo podendo oculta-lo ou não, acessar a página de ajuda, exibe a movimentação e o tipo de movimentação realizada via página de extrato, acessar uma   
+ movimentação específica, gerar um comprovante e imprimir o mesmo.
 </div>  
-  
-<div>  
-  O App é composto de uma animação inicial (Splash Page), um tela de Onboarding mostrando o funcionamento do App, Telas de Login/Registro/Recuperar Senha, Home Page, Help Page, Page  de Extrato com Paginação Infinita (Requisições de 10 em 10), Tela de Comprovante com compartilhamento. O login/registro está sendo autenticado pelo Firebase. Implantei bastante regras de UI/UX Design, Animação na tela de apresentação e Design do App. 
- </div>
+
+#
+
+<br>
+
+ <div align="center">  
+  <strong> - Requisitos propostos para esta aplicação: - </strong>
+</div>   
+
+<br>
+
+<table align="center">
+ <tr>
+  <td>Framework Flutter</td>
+  <td>Conexão com API</td>  
+  <td>Autenticação</td>  
+  <td>Gerenciamento de estado</td>
+  <td>Persistência de Flag</td>
+   <td>Arquitetura Limpa</td>
+ </tr>
+ <tr>
+  <td>Compartilhamento de Comprovante</td>
+  <td>Local Storage</td>
+  <td>S.O.L.I.D</td>
+  <td>Animações</td>
+  <td>Patterns</td>
+  <td>Refatoração</td> 
+ </tr>
+</table>
+
+<br>
 
  #
 
+ <br>
+
  <div align="center">  
-  <strong> 💼 Tecnologias utilizadas: </strong>
+  <strong> - Tecnologias utilizadas - </strong>
 </div>   
 
 <br>
@@ -27,12 +59,15 @@ Aplicação desenvolvida em Flutter tendo como proposta trabalhar conexão com A
   <td>Http Package</td>
   <td>Lottie Animation</td>
   <td>BLoC</td>
+  <td>Git</td>
+  <td>GitHub</td>
   <td>SOLID</td>
   <td>Figma</td>
  </tr>
 </table>
 
   #
+  
 <div align="left"> 
   <strong>Telas do App:</strong>
 </div>
