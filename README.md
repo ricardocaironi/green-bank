@@ -95,10 +95,10 @@
    <strong>07 - Help Page:</strong> Tela de Ajuda ao usuário.
 </div>
 <div align="left"> 
-   <strong>08 - Extrato Page:</strong> Tela que apresenta o extrato, a movimentação buscando dados da Api e persistindo Flag.
+   <strong>08 - Statement Page:</strong> Tela que apresenta o extrato, a movimentação buscando dados da Api e persistindo Flag.
 </div>
 <div align="left"> 
-   <strong>09 - Comprovante Page:</strong> Tela que exibe o comprovante da transferência.
+   <strong>09 - Receipt Page:</strong> Tela que exibe o comprovante da transferência.
 </div>
   
   #
