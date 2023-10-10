@@ -85,7 +85,7 @@
    <strong>04 - SignUp Page:</strong> Tela para criar sua conta.
 </div>
 <div align="left"> 
-   <strong>05 - Recuperação de Senha:</strong> Tela para recuperar sua senha.
+   <strong>05 - Reset Password:</strong> Tela para recuperar sua senha.
 </div>
 <div align="left"> 
    <strong>06 - Home Page:</strong> Tela principal do App, que estende para as funcionalidades do App.
@@ -95,10 +95,10 @@
    <strong>07 - Help Page:</strong> Tela de Ajuda ao usuário.
 </div>
 <div align="left"> 
-   <strong>08 - Extrato Page:</strong> Tela que apresenta o extrato, a movimentação buscando dados da Api e persistindo Flag.
+   <strong>08 - Statement Page:</strong> Tela que apresenta o extrato, a movimentação buscando dados da Api e persistindo Flag.
 </div>
 <div align="left"> 
-   <strong>09 - Comprovante Page:</strong> Tela que exibe o comprovante da transferência.
+   <strong>09 - Receipt Page:</strong> Tela que exibe o comprovante da transferência.
 </div>
   
   #
